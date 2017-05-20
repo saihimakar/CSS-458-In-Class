@@ -1,6 +1,12 @@
 import numpy as np
 import Card
+
+ 
+Suit_Name = ["Hearts", "Spades", "Diamonds", "Clubs"]
+Card_Name = ["Ace", "2", "3", "4", "5", "6", "7", "8", "9", "10", "Jack","Queen", "King"]
+
 class Dealer:
+
 
     """""
     This is the constructor for the Dealer class
