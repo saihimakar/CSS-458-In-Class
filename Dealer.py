@@ -14,11 +14,11 @@ class Dealer:
         self.listOfPlayer = player
         self.theDeck = Card(numberOfDeck)
 
+    # when players wins or delaer goes bust
     def collectChip(self):
         pass
 
     def payOutChip(self):
         pass
-
 
 
